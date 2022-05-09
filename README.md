@@ -34,7 +34,7 @@ some of my visualizations I repurposed my multi stack bar function from assignme
 
 ### Visualizations
 
-![Viz1](Viz1.png)
+![Viz1_](Viz1_.png)
 
 The first visualization reveals that in the last 6 elections being a consistent voter does not 
 depend much on gender when looking at the minority subset as a whole. This result was boring 
