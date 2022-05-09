@@ -7,6 +7,8 @@
 
 My project seeks to explore how income and the number of respondents who vote when they are eligible change with 
 gender in minority groups. 
+In every election up to 60% of eligible voters choose not to cast a ballot. But what does that look like underneath the surface? Through a series of plots
+this webpage will explain how eligible minority voters who do/do not vote change with factors such as gender and income. 
 
 The first visualization reveals that in the last 6 elections being a consistent voter does not 
 depend much on gender when looking at the minority subset as a whole. This result was boring 
