@@ -34,13 +34,13 @@ some of my visualizations I repurposed my multi stack bar function from assignme
 
 ### Visualizations
 
-![viz1](viz1.png)
+![Viz1](Viz1.png)
 s
-![viz2](viz2.png)
+![Viz2](Viz2.png)
 s
-![viz3](viz3.png)
+![Viz3](Viz3.png)
 s
-![viz4](viz4.png)
+![Viz4](Viz4.png)
 The first visualization reveals that in the last 6 elections being a consistent voter does not 
 depend much on gender when looking at the minority subset as a whole. This result was boring 
 so I further subset the data to look at how gender changed among people who indicated that 
