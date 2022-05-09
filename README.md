@@ -32,8 +32,9 @@ rows to get the total amount of times someone voted. Lastly, with regard to recy
 some of my visualizations I repurposed my multi stack bar function from assignment 5.
 
 
+### Visualizations
 
-
+![sequential](sequential.PNG)
 
 The first visualization reveals that in the last 6 elections being a consistent voter does not 
 depend much on gender when looking at the minority subset as a whole. This result was boring 
