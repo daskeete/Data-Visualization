@@ -43,18 +43,14 @@ they have voted every time they were eligible by utilizing the voter_category co
 values in this column are ['always', 'sporadic', 'rarely/never'].
 
 ![Viz2](Viz2.png)
-s
+
+
+Among those that voted every time they were eligible, females significantly outperformed 
+males. In other words, without controlling for income, among people that indicate that they always vote whenever eligible, 
+females tend to vote more than males in minority groups. 
+
 ![Viz3](Viz3.png)
 s
 ![Viz4](Viz4.png)
-The first visualization reveals that in the last 6 elections being a consistent voter does not 
-depend much on gender when looking at the minority subset as a whole. This result was boring 
-so I further subset the data to look at how gender changed among people who indicated that 
-they have voted every time they were eligible by utilizing the voter_category column. The 
-values in this column are ['always', 'sporadic', 'rarely/never'].
-Among those that voted every time they were eligible, females significantly outperformed 
-males. In other words, among people that indicate that they always vote whenever eligible, 
-females tend to vote more than males in minority groups. For the rest of the project I will 
-explore other ways these two variables can be looked at and also I will be using the income 
-category to create additional visualizations. The final product might be a github website.
+
 
