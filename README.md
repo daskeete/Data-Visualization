@@ -44,13 +44,17 @@ values in this column are ['always', 'sporadic', 'rarely/never'].
 
 ![Viz2](Viz2.png)
 
-
-Among those that voted every time they were eligible, females significantly outperformed 
-males. In other words, without controlling for income, among people that indicate that they always vote whenever eligible, 
-females tend to vote more than males in minority groups. 
+This second plot shows which gender voted at least 5 or more times in the last elections. Males here seem to have been recently outperforming women.
+In other words, without controlling for income, among people that voted at least five times in the last six elections, 
+males tended to vote more than females in minority groups. 
 
 ![Viz3](Viz3.png)
-s
+
+This next plot shows the distribution of the four different income groups in the dataset by gender. The data here ultimately shows that from the poorest 
+to the richest groups across genders, more women than males indicate that they always vote when eligible. This is slightly in contrast with what the previous plot shows. However it could just be that in the last 6 elections more women were not eligible to vote due to specific factors.
+For example, someone who moves and subsequently changes their address, is not eligible to vote until they re-register.
+However, if they voted all those other times when they were eligible then they would still be correct in saying that they always vote whenever eligible which may explain why the previous plot shows the outperformance of men. Other reasons someone may lose their eligibility to vote include being convicted of a felony or people who are mentally incapacitated.
+
 ![Viz4](Viz4.png)
 
 
