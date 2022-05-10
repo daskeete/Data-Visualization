@@ -85,3 +85,5 @@ https://www.usa.gov/who-can-vote
 
 https://help.vote.org/article/6-do-i-need-to-re-register-to-vote-for-every-election
 
+https://www.geeksforgeeks.org/bar-plot-in-matplotlib/
+
