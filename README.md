@@ -1,7 +1,7 @@
 # Data Visualization Spring 2022 Final Project
 ## Voting, Gender, and Income
 
-## Project Question: How do income and the number of times someone has been eligible to vote change with gender within minority groups?
+## Project Question: How do income and voter eligibility change with gender within minority groups?
 
 ## Introduction
 
@@ -67,6 +67,12 @@ However, if they voted all those other times when they were eligible then they w
 ![Viz4](Viz4.png)
 
 Lastly the fourth plot shows voting patterns among respondents based on gender and income. By observing the blue bar in each subplot we can see that proportionately more women voted in all or all but one of the elections they were eligible in. Among the highest earners the proportion of males and females that almost vote is almost identical. 
-On the other side of the spectrum, in the lowest income category proportionately more males than females rarely/never vote. One area where the males proportionately outperform the females is in the upper middle income's ($75-125k) sporadic voting category
+On the other side of the spectrum, in the lowest income category proportionately more males than females rarely/never vote. One area where the males proportionately outperform the females is in the upper middle income's ($75-125k) sporadic voting category.
+
+## Conclusion
+
+Now let's circle back to the project question of "How do income and voter eligibility change with gender within minority groups?". 
+It seems that in the recent years men outperform
+However if we step back and only look at respondents voting behavior when they are eligible to vote then we observe a different result...
 
 
