@@ -64,7 +64,7 @@ to the richest groups across genders, more women than males indicate that they a
 For example, someone who moves and subsequently changes their address, is not eligible to vote until they re-register.
 However, if they voted all those other times when they were eligible then they would still be correct in saying that they always vote whenever eligible which may explain why the previous plot shows the outperformance of men. Other reasons someone may lose their eligibility to vote include being convicted of a felony or people who are mentally incapacitated.
 
-![Viz4](Viz4.png)
+![Viz4](Viz4fl.png)
 
 Lastly the fourth plot shows voting patterns among respondents based on gender and income. By observing the blue bar in each subplot we can see that proportionately more women voted in all or all but one of the elections they were eligible in. Among the highest earners the proportion of males and females that almost vote is almost identical. 
 On the other side of the spectrum, in the lowest income category proportionately more males than females rarely/never vote. One area where the males proportionately outperform the females is in the upper middle income's ($75-125k) sporadic voting category.
