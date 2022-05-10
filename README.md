@@ -23,10 +23,14 @@ To turn the categorical income column into numerical data I could more easily wo
 I made a few changes: 
 
 
-    For income levels 'Less than $40k', those values were reclassified as an integer equal to $39,999.
-    For income levels between'$40-75k', those values were reclassified as an integer equal to $75,000.
-    For income levels between'$75-125k', those values were reclassified as an integer equal to $124,999.
-    For income levels '$125k or more', those values were reclassified as an integer equal to $125,000.
+    For income levels 'Less than $40k', those values were reclassified 
+    as an integer equal to $39,999.
+    For income levels between'$40-75k', those values were reclassified 
+    as an integer equal to $75,000.
+    For income levels between'$75-125k', those values were reclassified 
+    as an integer equal to $124,999.
+    For income levels '$125k or more', those values were reclassified 
+    as an integer equal to $125,000.
 
 To calculate the total times an individual voted I looked at all the relevant question  columns (Q27) then converted all the ones to ‘Yes’. I then summed all the results across rows to get the total amount of times someone voted. Lastly, with regard to recycled code from prior assignments; to produce some of my visualizations I repurposed my multi stack bar function from assignment 5.
 
