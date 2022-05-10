@@ -78,7 +78,10 @@ When we add income to the mix more females than males say that they always vote 
 
 ## Citations
 https://github.com/fivethirtyeight/data/tree/master/non-voters
+
 http://yotta-conseil.fr/python/Dataviz_with_matplotlib_and_seaborn_PyParis_2018.html
+
 https://www.usa.gov/who-can-vote
+
 https://help.vote.org/article/6-do-i-need-to-re-register-to-vote-for-every-election
 
