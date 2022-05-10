@@ -77,13 +77,13 @@ It seems that in the recent years men have outperformed. However since the data 
 When we add income to the mix more females than males say that they always vote when eligible so the same trend is being observed there. While I have my guesses, due to lack of data I am unable to pinpoint what the reason is for the recent low numbers of female votes in elections given that more say that they vote when eligible. Further data collection may hold the answer needed to explain this observation.
 
 ## Citations
-[Citation 1](https://github.com/fivethirtyeight/data/tree/master/non-voters)
+[https://github.com/fivethirtyeight/data/tree/master/non-voters](https://github.com/fivethirtyeight/data/tree/master/non-voters)
 
-[Citation 2](http://yotta-conseil.fr/python/Dataviz_with_matplotlib_and_seaborn_PyParis_2018.html)
+[http://yotta-conseil.fr/python/Dataviz_with_matplotlib_and_seaborn_PyParis_2018.html](http://yotta-conseil.fr/python/Dataviz_with_matplotlib_and_seaborn_PyParis_2018.html)
 
-[Citation 3](https://www.usa.gov/who-can-vote)
+[https://www.usa.gov/who-can-vote](https://www.usa.gov/who-can-vote)
 
-[Citation 4](https://help.vote.org/article/6-do-i-need-to-re-register-to-vote-for-every-election)
+[https://help.vote.org/article/6-do-i-need-to-re-register-to-vote-for-every-election](https://help.vote.org/article/6-do-i-need-to-re-register-to-vote-for-every-election)
 
-[Citation 5](https://www.geeksforgeeks.org/bar-plot-in-matplotlib/)
+[https://www.geeksforgeeks.org/bar-plot-in-matplotlib/](https://www.geeksforgeeks.org/bar-plot-in-matplotlib/)
 
