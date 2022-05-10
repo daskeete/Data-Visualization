@@ -46,10 +46,10 @@ VOTER_CATEGORY:
 ![Viz1](Viz1.png)
 
 The first visualization reveals that in the last 6 elections being a consistent voter does not 
-depend much on gender when looking at the minority subset as a whole. This result was boring 
-so I further subset the data to look at how gender changed among people who indicated that 
+depend much on gender when looking at the minority subset as a whole. This visualization is also based on a respondents total amount of votes cast in the last six elections. 
+This result was boring so I further subset the data to look at how gender changed among people who indicated that 
 they have voted every time they were eligible by utilizing the voter_category column. The 
-values in this column are ['always', 'sporadic', 'rarely/never'].
+values in this column are ['always', 'sporadic', 'rarely/never']. 
 
 ![Viz2](Viz2.png)
 
