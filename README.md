@@ -32,10 +32,9 @@ rows to get the total amount of times someone voted. Lastly, with regard to recy
 some of my visualizations I repurposed my multi stack bar function from assignment 5.
 
 Here is some information as to what the voter category column values stand for"
-      VOTER_CATEGORY:
+VOTER_CATEGORY:
       • always: respondent voted in all or all-but-one of the elections they were eligible in
-      • sporadic: respondent voted in at least two, but fewer than all-but-one of the elections
-        they were eligible in
+      • sporadic: respondent voted in at least two, but fewer than all-but-one of the elections they were eligible in
       • rarely/never: respondent voted in 0 or 1 of the elections they were eligible in
 
 ### Visualizations
