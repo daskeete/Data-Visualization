@@ -31,6 +31,12 @@ columns (Q27) then converted all the ones to ‘Yes’. I then summed all the re
 rows to get the total amount of times someone voted. Lastly, with regard to recycled code from prior assignments; to produce
 some of my visualizations I repurposed my multi stack bar function from assignment 5.
 
+Here is some information as to what the voter category column values stand for"
+      VOTER_CATEGORY:
+      • always: respondent voted in all or all-but-one of the elections they were eligible in
+      • sporadic: respondent voted in at least two, but fewer than all-but-one of the elections
+        they were eligible in
+      • rarely/never: respondent voted in 0 or 1 of the elections they were eligible in
 
 ### Visualizations
 
@@ -50,11 +56,14 @@ males tended to vote more than females in minority groups.
 
 ![Viz3](Viz3.png)
 
-This next plot shows the distribution of the four different income groups in the dataset by gender. The data here ultimately shows that from the poorest 
+The third plot shows the distribution of the four different income groups in the dataset by gender. The data here ultimately shows that from the poorest 
 to the richest groups across genders, more women than males indicate that they always vote when eligible. This is slightly in contrast with what the previous plot shows. However it could just be that in the last 6 elections more women were not eligible to vote due to specific factors.
 For example, someone who moves and subsequently changes their address, is not eligible to vote until they re-register.
 However, if they voted all those other times when they were eligible then they would still be correct in saying that they always vote whenever eligible which may explain why the previous plot shows the outperformance of men. Other reasons someone may lose their eligibility to vote include being convicted of a felony or people who are mentally incapacitated.
 
 ![Viz4](Viz4.png)
+
+Lastly the fourth plot shows voting patterns among respondents based on gender and income. By observing the blue bar in each subplot we can see that proportionately more women voted in all or all but one of the elections they were eligible in. Among the highest earners the proportion of males and females that almost vote is almost identical. 
+On the other side of the spectrum, in the lowest income category proportionately more males than females rarely/never vote. One area where the males proportionately outperform the females is in the upper middle income's ($75-125k) sporadic voting category
 
 
